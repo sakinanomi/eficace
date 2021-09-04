@@ -14,7 +14,14 @@
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img alt="SQLite" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
+
+## Assets used:
+- Fonts : google fonts.
+- Images :LS graphics.
+- Audio :mixkit.
+
 
 ## Features:
 
@@ -43,3 +50,6 @@
   <h3 align="center">
   <a href="https://github.com/tanvi355"> Tanvi </a> & <a href="https://github.com/sakinanomi"> Sakina </a>
   </h3>
+  
+  
+  ## Submitting for [Hack-O-Uplift](https://uplift.girlscript.tech/hack-o-uplift.html)
